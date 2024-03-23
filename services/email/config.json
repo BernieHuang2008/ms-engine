@@ -1,0 +1,12 @@
+{
+    "name": "email",
+    "port": 5001,
+    "lang": "python3",
+    "entrypoint": "main.py",
+    "pub_router": null,
+    "meta": {
+        "desc": "Email Service",
+        "version": "1.0.0",
+        "time": "20240323T00:00:00"
+    }
+}
